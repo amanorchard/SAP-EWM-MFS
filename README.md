@@ -21,7 +21,15 @@
 - **Export**: saves the session log as a sanitised TSV file
 - **Elegant dark UI**: built with customtkinter
 
+- <img width="960" height="504" alt="ShareX_HHgE84vHOz" src="https://github.com/user-attachments/assets/d1fdd389-cf59-467c-8d65-383bf5849d56" />
+
+
 ---
+Download the .exe file and run. Viola! 
+Pre-requisites:
+Details on connectivity to EWM mentioned in further steps.
+
+OR
 
 ## Quick Start
 
